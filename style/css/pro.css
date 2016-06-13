@@ -1,0 +1,142 @@
+﻿body,html{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+#bd{
+	width: 100%;
+	height: 100%;
+	
+	background-attachment:fixed; 
+    background-size:cover; 
+    margin: 0 auto;
+    overflow:hidden;
+	background: rgb(223,220,208);
+
+}
+
+.main{
+	width: 1000px;
+	height: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+.main img{
+	position: absolute;
+	
+}
+.main div{
+	cursor: pointer;
+}
+.yingzi1{
+	top: 146px;
+	left: 16px;
+}
+.aa1{
+	top: 120px;
+	left:0px;
+}
+.aa2,.aa3{
+	width: 0;
+	height: 0;
+	top:191px;
+	left:102px;
+}
+.yingzi2{
+	top: 146px;
+	left: 297px;
+}
+.bb1{
+	top: 120px;
+	left:280px;
+}
+.bb2,.bb3{
+	width: 0;
+	height: 0;
+	top:191px;
+	left:382px;
+}
+.yingzi3{
+	top: 146px;
+	left: 579px;
+}
+.cc1{
+	top: 120px;
+	left:561px;
+}
+.cc2,.cc3{
+	width: 0;
+	height: 0;
+	top:191px;
+	left:665px;
+}
+.yingzi4{
+	top: 146px;
+	left: 860px;
+}
+.dd1{
+	top: 120px;
+	left:843px;
+}
+.dd2,.dd3{
+	width: 0;
+	height: 0;
+	top:191px;
+	left:946px;
+}
+.yingzi5{
+	top: 406px;
+	left: 24px;
+}
+.ee1{
+	top: 364px;
+	left: -10px;
+}
+.ee2,.ee3{
+	width: 0;
+	height: 0;
+	top:552px;
+	left:102px;
+}
+.yingzi6{
+	top: 406px;
+	left: 302px;
+}
+.ff1{
+	top: 370px;
+	left:277px;
+}
+.ff2,.ff3{
+	width: 0;
+	height: 0;
+	top:552px;
+	left:384px;
+}
+.yingzi7{
+	top: 406px;
+	left: 585px;
+}
+.gg1{
+	top: 370px;
+	left:562px;
+}
+.gg2,.gg3{
+	width: 0;
+	height: 0;
+	top:552px;
+	left:664px;
+}
+.yingzi8{
+	top: 406px;
+	left: 865px;
+}
+.hh1{
+	top: 370px;
+	left:843px;
+}
+.hh2,.hh3{
+	width: 0;
+	height: 0;
+	top:552px;
+	left:945px;
+}
